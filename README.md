@@ -1,12 +1,3 @@
-# Sample Ant-based Java project
-
-This is an example of Java project with Ant build file.
-
-Run the following command in the project directory:
-
-* `ant -p` to list all available targets,
-* `ant build` to build project (jar file),
-* `ant run` to run sample application,
-* `ant doc` to generate documentation,
-* `ant clean` to clean up project folder.
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:f4bf061ea3f75fd024e78bb186a92ba3ff33d98dd0365248596166b57b2ae7e1
+size 349
